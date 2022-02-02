@@ -1,0 +1,2 @@
+# PredictEmployeeAttrition_classification
+Predicting the employee attrition using classification model
